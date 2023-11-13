@@ -32,7 +32,7 @@ DEBUG = True
 ALLOWED_HOSTS = [
     '8000-tomik-z-cech-blog-walkth-27gzpqudpz.us2.codeanyapp.com',
     'blog-sandbox-8402bb54fb7d.herokuapp.com',
-    'localhost'
+    '127.0.0.1',
     ]
 
 
